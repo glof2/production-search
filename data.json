@@ -1,0 +1,45 @@
+{
+    "data": 
+    [
+        {
+            "printer_id": 1,
+            "name": "Heineken 500ml 4.5%",
+            "type": "bottle"
+        },
+        {
+            "printer_id": 2,
+            "name": "Heineken 500ml 0%",
+            "type": "bottle"
+        },
+        {
+            "printer_id": 3,
+            "name": "BierHaus 500ml 4.5%",
+            "type": "bottle"
+        },
+        {
+            "printer_id": 4,
+            "name": "BierHaus 500ml 0%",
+            "type": "bottle"
+        },
+        {
+            "printer_id": 5,
+            "name": "Budweiser 500ml 4.5%",
+            "type": "bottle"
+        },
+        {
+            "printer_id": 6,
+            "name": "Budweiser 500ml 0%",
+            "type": "bottle"
+        },
+        {
+            "printer_id": 7,
+            "name": "Zatecky 500ml 4.5%",
+            "type": "bottle"
+        },
+        {
+            "printer_id": 8,
+            "name": "Zatecky 500ml 0%",
+            "type": "bottle"
+        }
+    ]
+}
